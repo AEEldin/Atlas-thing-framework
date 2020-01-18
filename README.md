@@ -1,4 +1,4 @@
-# Atlas-thing-framework
+# **_Atlas thing framework_**
 This repository holds the latest development regarding Atlas thing framework. The framework is composed of the following components:
 
 ## 1) IoT Device Description Language (IoT-DDL): 
