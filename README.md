@@ -36,4 +36,7 @@ The Atlas RIDE, an interactive development environment for the mobile user to gl
 
 ### Read more about this framework in the following papers:
 > - Helal, Sumi, Ahmed E. Khaled, and Venkata Gutta. "Atlas Thing Architecture: Enabling Mobile Apps as Things in the IoT." In Proceedings of the 23rd Annual International Conference on Mobile Computing and Networking, pp. 480-482. 2017. [Link: https://dl.acm.org/doi/10.1145/3117811.3119856]
+
+[![Short video](https://www.youtube.com/watch?v=qPKhhKTs0nM)
+
 > - Khaled, Ahmed, Wyatt Lindquist, and Sumi Helal. "DIY Health IoT Apps." In Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems, pp. 406-407. ACM, 2018. [Link: https://dl.acm.org/doi/abs/10.1145/3274783.3275206]
