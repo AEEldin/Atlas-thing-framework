@@ -1,4 +1,4 @@
-# **_Atlas thing framework_**
+# **_Atlas Thing Framework_**
 This repository holds the latest development regarding Atlas thing framework. The framework is composed of the following components:
 - [IoT Device Description Language](https://github.com/AEEldin/Atlas-thing-framework#1-iot-device-description-language-iot-ddl)
 - [Atlas Thing Architecture](https://github.com/AEEldin/Atlas-thing-framework#2-atlas-thing-architecture)
@@ -27,7 +27,7 @@ Based on the specifications of the IoT-DDL, Atlas thing architecture enables the
 The inter-thing relationships programming framework utilizes  Atlas Thing Architecture as well as the thing IoT-DDL specifications to build a distributed programming ecosystem for the social IoT. The framework broadens the social IoT thing-level relationships (that link the things according to their identification attributes) and utilizes a set of concrete service-level relationships (that logically and functionally tie the offered services to build scenarios and applications). We believe this can empower developers to program a much wider class of meaningful IoT applications. The framework introduces service (abstraction of the function offered by a thing), relationship (abstraction of how different services are linked together) and recipe (abstraction of how different services and relationships build up a segment of an app) as the primitives for the Atlas IoT application. The framework also defines a set of operators that functionally define how the primitives are wired. 
 
 ### Read more about this framework in the following papers:
-> - Khaled, Ahmed E., and Sumi Helal. "A framework for inter-thing relationships for programming the social IoT." In 2018 IEEE 4th World Forum on Internet of Things (WF-IoT), pp. 670-675. IEEE, 2018.
+> - Khaled, Ahmed E., and Sumi Helal. "A framework for inter-thing relationships for programming the social IoT." In 2018 IEEE 4th World Forum on Internet of Things (WF-IoT), pp. 670-675. IEEE, 2018. [Link: https://ieeexplore.ieee.org/document/8355215]
 > - Khaled, Ahmed E., Wyatt Lindquist, and Abdelsalam Sumi Helal. "Service-relationship programming framework for the social iot." Open Journal of Internet Of Things (OJIOT) 4, no. 1 (2018): 35-53. [Link: https://www.ronpub.com/ojiot/OJIOT_2018v4i1n04_Khaled.html]
 
 
@@ -35,5 +35,5 @@ The inter-thing relationships programming framework utilizes  Atlas Thing Archit
 The Atlas RIDE, an interactive development environment for the mobile user to glimpse and program their smart spaces. The RIDE extends the inter-thing relationships programming framework and targets the smart-phone users with no programming experience to help them master their smart spaces and to build applications with a few clicks. The developer, through the RIDE, can listen to the smart space to capture the available services and relationships, establish applications, and set preferences for functionalities to guide the inference of new applications and engagement opportunities. The RIDE also accepts the description for application from the developers and generates mobile applications that run independently from the RIDE and communicate back with the things for the execution of the application. 
 
 ### Read more about this framework in the following papers:
-> - Helal, Sumi, Ahmed E. Khaled, and Venkata Gutta. "Atlas Thing Architecture: Enabling Mobile Apps as Things in the IoT." In Proceedings of the 23rd Annual International Conference on Mobile Computing and Networking, pp. 480-482. 2017.
-> - Khaled, Ahmed, Wyatt Lindquist, and Sumi Helal. "DIY Health IoT Apps." In Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems, pp. 406-407. ACM, 2018.
+> - Helal, Sumi, Ahmed E. Khaled, and Venkata Gutta. "Atlas Thing Architecture: Enabling Mobile Apps as Things in the IoT." In Proceedings of the 23rd Annual International Conference on Mobile Computing and Networking, pp. 480-482. 2017. [Link: https://dl.acm.org/doi/10.1145/3117811.3119856]
+> - Khaled, Ahmed, Wyatt Lindquist, and Sumi Helal. "DIY Health IoT Apps." In Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems, pp. 406-407. ACM, 2018. [Link: https://dl.acm.org/doi/abs/10.1145/3274783.3275206]
