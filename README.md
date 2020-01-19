@@ -1,6 +1,6 @@
 # **_Atlas thing framework_**
 This repository holds the latest development regarding Atlas thing framework. The framework is composed of the following components:
-- [IoT Device Description Language](https://https://github.com/AEEldin/Atlas-thing-framework#1-iot-device-description-language-iot-ddl)
+- [IoT Device Description Language](https://github.com/AEEldin/Atlas-thing-framework#1-iot-device-description-language-iot-ddl)
 - [Atlas Thing Architecture](https://github.com/AEEldin/Atlas-thing-framework#2-atlas-thing-architecture)
 - [Inter-Thing Relationship Framework](https://github.com/AEEldin/Atlas-thing-framework#3-inter-thing-relationship-framework)
 - [Runtime Interactive Development Environment](https://github.com/AEEldin/Atlas-thing-framework#4-runtime-interactive-development-environment-ride)
