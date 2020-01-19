@@ -1,5 +1,10 @@
 # **_Atlas thing framework_**
 This repository holds the latest development regarding Atlas thing framework. The framework is composed of the following components:
+- [IoT Device Description Language](https://https://github.com/AEEldin/Atlas-thing-framework#1-iot-device-description-language-iot-ddl)
+- [Atlas Thing Architecture](https://github.com/AEEldin/Atlas-thing-framework#2-atlas-thing-architecture)
+- [Inter-Thing Relationship Framework](https://github.com/AEEldin/Atlas-thing-framework#3-inter-thing-relationship-framework)
+- [Runtime Interactive Development Environment](https://github.com/AEEldin/Atlas-thing-framework#4-runtime-interactive-development-environment-ride)
+
 
 ## 1) IoT Device Description Language (IoT-DDL): 
 XML-based human- and machine-readable configuration scheme to describe a thing in IoT in terms of inner components, identity, capabilities, resources, attachments and services. The IoT-DDL also describes the knowledge (social bonds and relationships) injected or acquired by the thing, as well as the different interactions that engage the thing with cloud platforms, edges, users (e.g., end-user, developer) and space-mates (nearby things or remote ones). Such configuration schemes are created by the thing vendor or owner and this then gets uploaded to the thing to enable the thing to self-discover its own power and engage with the surrounding IoT ecosystem. 
@@ -28,7 +33,7 @@ The inter-thing relationships programming framework utilizes  Atlas Thing Archit
 - Khaled, Ahmed E., Wyatt Lindquist, and Abdelsalam Sumi Helal. "Service-relationship programming framework for the social iot." Open Journal of Internet Of Things (OJIOT) 4, no. 1 (2018): 35-53. [Link: https://www.ronpub.com/ojiot/OJIOT_2018v4i1n04_Khaled.html]
 
 
-## 4) Runtime Interactive Development Environemtn (RIDE):
+## 4) Runtime Interactive Development Environment (RIDE):
 The Atlas RIDE, an interactive development environment for the mobile user to glimpse and program their smart spaces. The RIDE extends the inter-thing relationships programming framework and targets the smart-phone users with no programming experience to help them master their smart spaces and to build applications with a few clicks. The developer, through the RIDE, can listen to the smart space to capture the available services and relationships, establish applications, and set preferences for functionalities to guide the inference of new applications and engagement opportunities. The RIDE also accepts the description for application from the developers and generates mobile applications that run independently from the RIDE and communicate back with the things for the execution of the application. 
 
 ### Read more about this framework in the following papers:
