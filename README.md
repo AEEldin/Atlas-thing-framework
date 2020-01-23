@@ -11,7 +11,7 @@ XML-based human- and machine-readable configuration scheme to describe a thing i
 
 ### Read more about it in the following paper:
 > - Khaled, Ahmed E., Abdelsalam Helal, Wyatt Lindquist, and Choonhwa Lee. "IoT-DDL–device description language for the “T” in IoT." IEEE Access 6 (2018): 24048-24063. [Link: https://ieeexplore.ieee.org/abstract/document/8334820]
-> - **_Also check the "IoT-DDL builder" to build an IoT-DDL file for Atlas thing._** [link http://htmlpreview.github.com/AEEldin/Atlas-thing-framework/blob/master/IoT-DDL_Builder.html]
+> - **_Also check the "IoT-DDL builder" to build an IoT-DDL file for Atlas thing._** [link http://htmlpreview.github.com/AEEldin/Atlas-thing-framework/blob/master/IoT-DDL/IoT-DDL%20Builder/index.html]
 
 
 ## 2) Atlas Thing Architecture: 
